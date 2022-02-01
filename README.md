@@ -9,6 +9,7 @@ This OSF repo contains the files created for applying to the Ethics committee an
 
 ## List of relavant papers and websites:
 
+[Bibliography](literature.bib)
 
 ## Main document and repo
 
