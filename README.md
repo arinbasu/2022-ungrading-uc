@@ -19,5 +19,7 @@ This OSF repo contains the files created for applying to the Ethics committee an
 
 [Going gradeless project](https://curvenote.com/@arinbasu/action-research-on-ungrading-at-uc/blank)
 
+## Workshop Google Docs
 
+[https://docs.google.com/document/d/1fJnCMnoWVitzr4H-NrQwCGyYSwPl_m57HgLJZ4hYAF0/edit?usp=sharing](https://docs.google.com/document/d/1fJnCMnoWVitzr4H-NrQwCGyYSwPl_m57HgLJZ4hYAF0/edit?usp=sharing)
 
